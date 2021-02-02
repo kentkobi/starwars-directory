@@ -1,3 +1,20 @@
+# Star Wars Directory
+A very minimal and unstyled React app exercise.
+
+The app displays a table containing a list of people with the following columns;
+-	Name
+-	Height 
+-	Mass
+
+It supports pagination (next and back button), so the user can navigate to the next page (if present).
+Once the user clicks on the table row, the detail section of the app populates with the following details about the person.
+-	Name
+-	Height
+-	Birth year
+- Gender 
+-	Names of the films that this person has been in
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
