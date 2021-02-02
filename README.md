@@ -9,7 +9,6 @@ The app displays a table containing a list of people with the following columns;
 It supports pagination (next and back button), so the user can navigate to the next page (if present).
 Once the user clicks on the table row, the detail section of the app populates with the following details about the person.
 -	Name
--	Height
 -	Birth year
 - Gender 
 -	Names of the films that this person has been in
